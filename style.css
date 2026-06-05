@@ -764,12 +764,12 @@ a {
 }
 
 .floating-whatsapp {
-    left: 30px;
+    right: 30px;
     background-color: var(--whatsapp);
 }
 
 .floating-phone {
-    left: 105px;
+    right: 105px;
     background-color: var(--primary);
     box-shadow: 0 4px 15px rgba(255, 106, 0, 0.4);
     animation: pulse-phone 2s infinite;
